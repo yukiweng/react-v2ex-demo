@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,EACE,qBAAsB,CACtB,QAAS,CACT,SACF,CACA,EACE,oBACF,CACA,KACE,kBACF","file":"main.813efb2c.chunk.css","sourcesContent":["*{\n  box-sizing: border-box;\n  margin: 0;\n  padding: 0;\n}\na{\n  text-decoration: none;\n}\nbody {\n  background: lightgray;\n}\n\n"]}

@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-v2ex-demo/build/static/css/main.813efb2c.chunk.css",
+    "main.js": "/react-v2ex-demo/build/static/js/main.2452af8b.chunk.js",
+    "main.js.map": "/react-v2ex-demo/build/static/js/main.2452af8b.chunk.js.map",
+    "runtime-main.js": "/react-v2ex-demo/build/static/js/runtime-main.c1ffa782.js",
+    "runtime-main.js.map": "/react-v2ex-demo/build/static/js/runtime-main.c1ffa782.js.map",
+    "static/css/2.1c7ffa40.chunk.css": "/react-v2ex-demo/build/static/css/2.1c7ffa40.chunk.css",
+    "static/js/2.610fecd4.chunk.js": "/react-v2ex-demo/build/static/js/2.610fecd4.chunk.js",
+    "static/js/2.610fecd4.chunk.js.map": "/react-v2ex-demo/build/static/js/2.610fecd4.chunk.js.map",
+    "index.html": "/react-v2ex-demo/build/index.html",
+    "precache-manifest.7a4063f1201efb2d6c7be7af0c6cf6cf.js": "/react-v2ex-demo/build/precache-manifest.7a4063f1201efb2d6c7be7af0c6cf6cf.js",
+    "service-worker.js": "/react-v2ex-demo/build/service-worker.js",
+    "static/css/2.1c7ffa40.chunk.css.map": "/react-v2ex-demo/build/static/css/2.1c7ffa40.chunk.css.map",
+    "static/css/main.813efb2c.chunk.css.map": "/react-v2ex-demo/build/static/css/main.813efb2c.chunk.css.map",
+    "static/js/2.610fecd4.chunk.js.LICENSE": "/react-v2ex-demo/build/static/js/2.610fecd4.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1ffa782.js",
+    "static/css/2.1c7ffa40.chunk.css",
+    "static/js/2.610fecd4.chunk.js",
+    "static/css/main.813efb2c.chunk.css",
+    "static/js/main.2452af8b.chunk.js"
+  ]
+}
